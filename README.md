@@ -4,6 +4,11 @@ A Colorado Board of elections employee has given us a list of data concerning an
 ## Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 * **How many votes were cast in this congressional election?** There was a total of 369,711 votes.
 
+## Resources
+- Data Source: election_results.csv
+- Software: Python 3.7.6, VSC 1.64.0
+- [Image of County Turnout](n.d.). https://courses.bootcampspot.com/courses/1197/files/1381719/preview
+
 * **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
 For the county of Arapahoe, there was a total of 24,801 votes, which consisted of approximately 6.7% of the total votes. For the county of Denver, there was a total of 306, 055 votes, which consisted of approximately 82.8% of the total votes. For the county of Jefferson, there was a total of 38,855 votes, which consisted of 10.5% of the total votes.
 
